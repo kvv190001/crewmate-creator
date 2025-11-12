@@ -1,10 +1,10 @@
 # Web Development Project 7 - Crewmate Creator
 
-Submitted by: Viet Khue Vu
+Submitted by: **Viet Khue Vu**
 
 This web app: is where you can create your very own set of crewmates before sending them off into space!
 
-Time spent: 6 hours spent in total
+Time spent: **6** hours spent in total
 
 ## Required Features
 
@@ -47,15 +47,9 @@ The following **additional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
+![AZqmyRXH](https://github.com/user-attachments/assets/cfb90673-31e2-4bb2-87b1-28df92540fe9)
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-<!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
-<!-- Recommended tools:
-[Kap](https://getkap.co/) for macOS
-[ScreenToGif](https://www.screentogif.com/) for Windows
-[peek](https://github.com/phw/peek) for Linux. -->
 
 ## Notes
 
