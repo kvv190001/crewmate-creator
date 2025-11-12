@@ -41,7 +41,7 @@ const EditCrewmate = () => {
             .update({ name: crewmate.name, speed: crewmate.speed, color: crewmate.color })
             .eq('id', id);
 
-        window.location = "/";
+        window.location = "/gallery";
     }
 
     const deleteCrewmate = async (event) => {
@@ -52,7 +52,7 @@ const EditCrewmate = () => {
             .delete()
             .eq('id', id);
 
-        window.location = "/";
+        window.location = "/gallery";
     }
 
     return (
